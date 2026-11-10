@@ -1,0 +1,32 @@
+# Python & pytest
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.log
+
+# Environments
+appium_env/
+.env
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Media & Reports
+*.mov
+*.mp4
+report.html
+reports/*.html
+
+# Evidence & builds (may contain account data)
+page_source/
+screenshots/
+*.apk
+.env
+appium_env/
+__pycache__/
+*.pyc
+*.mov
